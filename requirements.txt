@@ -1,0 +1,12 @@
+# Core modeling
+pymc>=5.0.0
+pytensor>=2.18.0
+arviz>=0.16.0
+
+# Numerics & plotting
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Optional: to use the Stan model directly instead of PyMC
+# cmdstanpy>=1.2.0
